@@ -9,9 +9,9 @@ Access records, view marks, and communicate effortlessly.
 </h3>
 
 <br>
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
+
 <br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
+[LinkedIn](www.linkedin.com/in/sudarsan-majhi)
 
 # About
 
@@ -42,7 +42,6 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -186,7 +185,5 @@ If the issue persists, feel free to contact me for further assistance.
 
 Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
-# Deployment
-* Render - server side
-* Netlify - client side
+
 
